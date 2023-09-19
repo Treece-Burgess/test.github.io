@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['last_5fmb_0',['last_mb',['../classslate_1_1_base_matrix.html#a39710a5a93cf4884d65c1af47d4bc550',1,'slate::BaseMatrix']]],
+  ['last_5fnb_1',['last_nb',['../classslate_1_1_base_matrix.html#a15e339e6baf1d6613c6f505647a9edaf',1,'slate::BaseMatrix']]],
+  ['layout_2',['layout',['../classslate_1_1_base_matrix.html#ac07b5530001b56d21fbc66824fa9e9f5',1,'slate::BaseMatrix']]],
+  ['layout_5f_3',['layout_',['../classslate_1_1_base_matrix.html#a14c06deb056691c876d79814ce804936',1,'slate::BaseMatrix::layout_'],['../classslate_1_1_tile.html#a47cceca09b964a018813d543a4d502dd',1,'slate::Tile::layout_']]],
+  ['layoutbackdata_4',['layoutBackData',['../classslate_1_1_tile.html#a430f64b5697e14f659b0abb5ea1399c2',1,'slate::Tile']]],
+  ['layoutbackstride_5',['layoutBackStride',['../classslate_1_1_tile.html#ac08569a09ce8dcf2f5cecd4a0d97a45f',1,'slate::Tile']]],
+  ['layoutconvert_6',['layoutConvert',['../classslate_1_1_tile.html#aaa5edc17fb9696f7aeb036168bd57b40',1,'slate::Tile::layoutConvert(scalar_t *work_data=nullptr)'],['../classslate_1_1_tile.html#aa824da88519c7860d07e74c599832bf2',1,'slate::Tile::layoutConvert(scalar_t *work_data, blas::Queue &amp;queue, bool async=false)'],['../classslate_1_1_tile.html#a3888bad27f93b0409d486cacdb306e9a',1,'slate::Tile::layoutConvert(blas::Queue &amp;queue, bool async=false)']]],
+  ['layoutconvert_7',['LayoutConvert',['../group__enum.html#gaaee2d0235d47c304b5d8583af314eef4',1,'slate']]],
+  ['layoutreset_8',['layoutReset',['../classslate_1_1_tile.html#aa75fcb87cdd7e972f1fc6d88cf701f92',1,'slate::Tile']]],
+  ['layoutsetfrontdataext_9',['layoutSetFrontDataExt',['../classslate_1_1_tile.html#a69b8b64e88cbdd91852cd68b1c719c1a',1,'slate::Tile']]],
+  ['least_20squares_10',['Least squares',['../group__group__least__squares.html',1,'']]],
+  ['level_202_20blas_20and_20auxiliary_3a_20o_28n_5e2_29_20work_11',['Level 2 BLAS and Auxiliary: O(n^2) work',['../group__group__blas2__top.html',1,'']]],
+  ['level_203_20blas_3a_20o_28n_5e3_29_20work_12',['Level 3 BLAS: O(n^3) work',['../group__group__blas3__top.html',1,'']]],
+  ['linear_20least_20squares_13',['Linear least squares',['../group__gels.html',1,'']]],
+  ['linear_20systems_14',['Linear systems',['../group__group__solve.html',1,'']]],
+  ['listbcast_15',['listBcast',['../classslate_1_1_base_matrix.html#a7f4ef408193cac8b5bd8633f8a519052',1,'slate::BaseMatrix']]],
+  ['listbcastmt_16',['listBcastMT',['../classslate_1_1_base_matrix.html#a7389a85ce34c5675b794dee569d03d63',1,'slate::BaseMatrix']]],
+  ['local2global_17',['local2global',['../namespaceslate.html#a92a7597986e6650acfc3502dcd02af6a',1,'slate']]],
+  ['lockguard_18',['LockGuard',['../classslate_1_1_lock_guard.html#a8e5d10bf87fa1be2b9886fa251a4b502',1,'slate::LockGuard::LockGuard()'],['../classslate_1_1_lock_guard.html',1,'slate::LockGuard']]],
+  ['lookahead_19',['Lookahead',['../group__enum.html#ggac97a2c5045464e6949b9a65a059b196aa9ed6e7a8bdc20e752f9dddcfff0270bf',1,'slate']]],
+  ['lowerbandwidth_20',['lowerBandwidth',['../classslate_1_1_band_matrix.html#ab13065da50218a951fbe16f22e9a6cff',1,'slate::BandMatrix::lowerBandwidth() const'],['../classslate_1_1_band_matrix.html#a7a6c5c7b00bd36d61cdb9aa636bd58bd',1,'slate::BandMatrix::lowerBandwidth(int64_t kl)']]],
+  ['lq_21',['LQ',['../group__group__gelqf.html',1,'']]]
+];
